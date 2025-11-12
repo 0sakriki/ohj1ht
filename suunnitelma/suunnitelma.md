@@ -6,15 +6,15 @@ Poista sitten *kaikki* suluilla merkityt kohdat.)
 
 ## Tietoja 
 
-Tekijä: (Etunimi Sukunimi)
+Tekijä: Oskari Kalliokoski
 
-Työ git-varaston osoite: <https://gitlab.jyu.fi/anlakane/ohj1ht> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
+Työ git-varaston osoite: https://github.com/0sakriki/ohj1ht
 
-Pelin nimi: (Nimi)
+Pelin nimi: Montako
 
-Pelialusta: Windows/macOS/Linux (Valitse alusta)
+Pelialusta: Windows
 
-Pelaajien lukumäärä: 1/2/3/4 (Valitse pelaajien lukumäärä)
+Pelaajien lukumäärä: 1
 
 ## Pelin tarina
 
@@ -22,7 +22,7 @@ Pelaajien lukumäärä: 1/2/3/4 (Valitse pelaajien lukumäärä)
 
 ## Pelin idea ja tavoitteet
 
-(Pelin idea ja tavoitteet.)
+pelin idea on se, että näytölle tulee jokin määrä esineitä tai ympyröitä ja sitten pitää valita vaihtoehdoista alempaa kuinka monta ympyrää näytöllä on (esim. 7 14 19). Pelissä voi siis harjoitella taitoa että voi heti nähdä taivaalta että kuinka monta lintua lentää yli. Ajattelin tehdä pelille myös nettisivut.
 
 ## Hahmotelma pelistä
 
