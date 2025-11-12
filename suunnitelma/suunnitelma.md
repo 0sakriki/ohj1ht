@@ -28,7 +28,7 @@ pelin idea on se, että näytölle tulee jokin määrä esineitä tai ympyröit�
 
 (Kun olet lisännyt suunnitelmakuvan tähän hakemistoon, linkitä se tähän alle. Alla on esimerkkikuvan linkitys.)
 
-![Esimerkkikuva](esimerkkikuva.png "Esimerkkikuva")
+![Pelisuunitelma](Pelisuunitelma.png "Pelisuunitelma")
 
 ## Toteutuksen suunnitelma
 
