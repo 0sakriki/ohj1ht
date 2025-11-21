@@ -1,5 +1,7 @@
 # Harjoitustyön suunnitelma ja kuvat
 
+#OSKARIN SUUNITELMA
+
 Laita tähän kansioon harjoitustyön suunnitelma sekä suunnitelman kuvat.
 
 ## Suunnitelma

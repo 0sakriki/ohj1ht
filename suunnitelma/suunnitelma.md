@@ -26,6 +26,9 @@ pelin idea on se, että näytölle tulee jokin määrä esineitä tai ympyröit�
 
 ## Toteutuksen suunnitelma
 
+1. Tee lintuset
+2. Tee loput
+
 Helmikuu
 
 - (Tavoite 1)
