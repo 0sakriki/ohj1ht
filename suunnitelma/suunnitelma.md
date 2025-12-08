@@ -24,6 +24,8 @@ pelin idea on se, että näytölle tulee jokin määrä esineitä tai ympyröit�
 
 ![Pelisuunitelma](Pelisuunitelma.png "Pelisuunitelma")
 
+https://oskari2.arr.ovh/peli.html
+
 ## Toteutuksen suunnitelma
 
 1. Tee lintuset
